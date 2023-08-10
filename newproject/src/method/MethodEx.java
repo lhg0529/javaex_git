@@ -1,5 +1,5 @@
 package method;
-
+/* */
 public class MethodEx {
   public static void main(String[] args) {
 //    int sum = 0;
