@@ -4,7 +4,7 @@ public class Circle {
   double radius;
 
   static void setRadius(String aaa){
-    color = aaa;
+    //color = aaa;
   }
 
   final void changeRadius(double radius){
