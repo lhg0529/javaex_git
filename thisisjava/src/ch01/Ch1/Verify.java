@@ -1,4 +1,4 @@
-package ch01.sec06.Ch1;
+package ch01.Ch1;
 
 public class Verify {
   public static void main(String[] args) {
