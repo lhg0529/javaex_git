@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/easyjavahyun/easyjavahyun.iml" filepath="$PROJECT_DIR$/easyjavahyun/easyjavahyun.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaex_git.iml" filepath="$PROJECT_DIR$/.idea/javaex_git.iml" />
       <module fileurl="file://$PROJECT_DIR$/newproject/newproject.iml" filepath="$PROJECT_DIR$/newproject/newproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/thisisjava/thisisjava.iml" filepath="$PROJECT_DIR$/thisisjava/thisisjava.iml" />

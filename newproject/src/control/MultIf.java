@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MultIf {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
-    System.out.println("점수를 입력해주세요. (0~100)");
+    System.out.println("점수를 입력해 주세요. (0~100)");
     int score = in.nextInt();
     String grade = "";
     if (score >= 90)  {
